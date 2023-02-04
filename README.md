@@ -51,3 +51,9 @@ Kirsch子目录
 
 marr子目录
 边缘模型：Marr-Hildreth边缘检测器
+
+canny子目录
+Canny边缘检测器算法
+
+isef子目录
+Shen-Castan边缘检测算法（ISEF）
