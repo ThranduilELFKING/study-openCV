@@ -57,3 +57,6 @@ Canny边缘检测器算法
 
 isef子目录
 Shen-Castan边缘检测算法（ISEF）
+
+colorEdge子目录
+彩色边缘检测（包含RGB、T1和T2、HSV三种方案）
